@@ -1,6 +1,6 @@
 # IBM-NTC-Android-Application
 
-# Read Me
+# Read Me:
 
 /******************Strategy and Algorithm*********************/
 
