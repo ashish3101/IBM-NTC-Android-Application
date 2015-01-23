@@ -1,5 +1,7 @@
 # IBM-NTC-Android-Application
 
+# Read Me
+
 /******************Strategy and Algorithm*********************/
 
 Our algorithm is that we get the longitude and latitude of location of person
